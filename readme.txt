@@ -2,4 +2,8 @@ git is a distributed version control system.
 git is free software distributed under the GPL.
 git is a useful tool.
 I am learning ....
-branch is simple and quick
+<<<<<<< HEAD
+branch is simple & quick
+=======
+branch is simple & quick
+>>>>>>> fea
